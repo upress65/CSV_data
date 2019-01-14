@@ -1,0 +1,30 @@
+Lista de materiales proyecto solar
+;Fecha;Material;unidad;cantidad;Obs
+VERDADERO;17/2/17;Tubería Acero/Galvanizado  Dia 3”;m;4;Envio plano para el corte
+VERDADERO;17/2/17;Tubería A/Inox 304 10” SCH 10;m;0,5;
+VERDADERO;17/2/17;Tubería A/Inox 304 4” SCH 40;m;1.0;Dos tramos de 10 cm
+VERDADERO;17/2/17;Tubería A/Inox 304 3” SCH 10;m;3;Dos tramo de 120 cm
+FALSO;17/2/17;Brida Sliop-On  3”  para 150 lbs;und;2;Solo recibí 1 und
+VERDADERO;17/2/17;Codo A/inox SCH 10 para soldar;und;1;
+FALSO;17/2/17;Tornillería para la brida (Kit);unid;1;
+FALSO;17/2/17;Válvula de seguridad ;und;1;
+VERDADERO;17/2/17;Tubería PVC presión 4”;m;1;
+VERDADERO;17/2/17;Union PVC presión 4”;und;2;
+VERDADERO;17/2/17;Tramo de tubería PVC 4” 0,1 m;und;1;
+VERDADERO;17/2/17;Tramo de tubería PVC 4” 0,1 m;und;1;
+VERDADERO;17/2/17;Tapón PVC pression 4”;und;2;
+FALSO;17/2/17;Tubería galvanizada 1” roscada en ambos extremos;m;1;Realizar corte en Q&P
+FALSO;17/2/17;Tubería galvanizada 1” tramos de 0,3 m (roscada en un extremo);und;2;Realizar corte en Q&P
+VERDADERO;17/2/17;Tee galvanizada 1”;und;1;
+FALSO;1/3/17;Brida Sliop-On  2”  para 150 lbs A/Inox;und;1;
+FALSO;1/3/17;Brida Ciega  2”  para 150 lbs A/Inox;und;1;Debe pasar por el taller de mecanizado
+FALSO;1/3/17;Tornillería para la brida (Kit);und;1;
+FALSO;;;;;
+FALSO;;;;;
+FALSO;;;;;
+FALSO;;;;;
+FALSO;;;;;
+FALSO;;;;;
+FALSO;;;;;
+FALSO;;;;;
+FALSO;;;;;
